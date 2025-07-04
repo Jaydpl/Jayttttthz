@@ -1,0 +1,12 @@
+npm install netlify-cli -g
+netlify login
+
+**B. Create Project Structure**
+
+mkdir ai-landing-generator
+cd ai-landing-generator
+npm init -y
+npm install next react react-dom @tailwindcss/typography
+npm install openai axios cheerio puppeteer
+npm install @supabase/supabase-js stripe
+```

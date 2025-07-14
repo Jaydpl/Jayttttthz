@@ -1,3 +1,4 @@
+pip install pinecone
 npm install netlify-cli -g
 netlify login
 
